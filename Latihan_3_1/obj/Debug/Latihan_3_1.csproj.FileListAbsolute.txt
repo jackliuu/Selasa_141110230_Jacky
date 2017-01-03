@@ -1,0 +1,9 @@
+D:\New folder\Selasa_141113007_RyanRicardo\Latihan_3_1\bin\Debug\Latihan_3_1.exe.config
+D:\New folder\Selasa_141113007_RyanRicardo\Latihan_3_1\bin\Debug\Latihan_3_1.exe
+D:\New folder\Selasa_141113007_RyanRicardo\Latihan_3_1\bin\Debug\Latihan_3_1.pdb
+D:\New folder\Selasa_141113007_RyanRicardo\Latihan_3_1\obj\Debug\Latihan_3_1.csprojResolveAssemblyReference.cache
+D:\New folder\Selasa_141113007_RyanRicardo\Latihan_3_1\obj\Debug\Latihan_3_1.Form1.resources
+D:\New folder\Selasa_141113007_RyanRicardo\Latihan_3_1\obj\Debug\Latihan_3_1.Properties.Resources.resources
+D:\New folder\Selasa_141113007_RyanRicardo\Latihan_3_1\obj\Debug\Latihan_3_1.csproj.GenerateResource.Cache
+D:\New folder\Selasa_141113007_RyanRicardo\Latihan_3_1\obj\Debug\Latihan_3_1.exe
+D:\New folder\Selasa_141113007_RyanRicardo\Latihan_3_1\obj\Debug\Latihan_3_1.pdb

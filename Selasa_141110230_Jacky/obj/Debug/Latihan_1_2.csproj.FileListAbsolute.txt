@@ -1,0 +1,3 @@
+D:\New folder\Selasa_141113007_RyanRicardo\Selasa_141113007_RyanRicardo\obj\Debug\Latihan_1_2.Form1.resources
+D:\New folder\Selasa_141113007_RyanRicardo\Selasa_141113007_RyanRicardo\obj\Debug\Selasa_141113007_RyanRicardo.Properties.Resources.resources
+D:\New folder\Selasa_141113007_RyanRicardo\Selasa_141113007_RyanRicardo\obj\Debug\Latihan_1_2.csproj.GenerateResource.Cache
